@@ -1,0 +1,5 @@
+com\emergentes\dao\EventoDAO.class
+com\emergentes\controlador\MainController.class
+com\emergentes\dao\AvisoDAOimpl.class
+com\emergentes\modelo\Evento.class
+com\emergentes\utiles\ConexionBD.class
